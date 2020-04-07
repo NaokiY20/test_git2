@@ -7,5 +7,8 @@ def goodbye():
 def branch_test():
     print('This is branch test.')
 
+def branch_test2():
+    print('This is branch2')
+
 if __name__ == '__main__':
     hello2()
